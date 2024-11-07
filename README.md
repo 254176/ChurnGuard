@@ -1,3 +1,4 @@
+# Abstract
 Predicting customer churn is essential for businesses across sectors, enabling proactive actions to retain customers and improve satisfaction. This project focuses on forecasting churn using the Telco Customer Churn dataset.
 
 The dataset comprises customer demographics, service details, and churn status.
